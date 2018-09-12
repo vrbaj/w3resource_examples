@@ -13,4 +13,4 @@ try:
     print("r = ", radius)
     print("Area = ", PI * radius ** 2)
 except Exception as ex:
-    print("Exception occured", ex)
+    print("Exception occurred", ex)
